@@ -1,0 +1,28 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+.idea
+
+# Ignore Gradle build output directory
+build
+
+# Ignore Proguard generated files
+proguard.map
+
+# Arquivos compilados / Logs
+*.class
+*.log
+
+# IDEs (Eclipse / IntelliJ / VSCode)
+.idea/
+*.iml
+*.iws
+.settings/
+bin/
+out/
+.vscode/
+
+# Ignorar arquivos sensíveis e de build
+AMS-Obfkit
+temp
+proguard.txt
+build.gradle
