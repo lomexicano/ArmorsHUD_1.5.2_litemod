@@ -1,6 +1,6 @@
 # Armors HUD LiteMod for Minecraft 1.5.2
 
-This is a port of the classic ArmorsHUD mod (by (Shadow_Hawk)[https://github.com/digitalshadowhawk]) to Minecraft 1.5.2.
+This is a port of the classic ArmorsHUD mod (by [Shadow_Hawk](https://github.com/digitalshadowhawk)) to Minecraft 1.5.2.
 I also added an ingame settings GUI, and a text overlay with the durability of the mod. The user may choose, ingame, the position of the HUD and toggle the text overlay on/off.
 
 # Installation
